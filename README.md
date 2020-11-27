@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Go
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktiarafi&layout=compact)
